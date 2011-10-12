@@ -25,4 +25,5 @@ group :production do
   gem 'mysql2', '0.3.7'
   gem 'foreman'
   gem 'unicorn'
+  gem 'therubyracer'
 end

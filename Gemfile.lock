@@ -41,6 +41,12 @@ GIT
     spree_sample (0.70.0)
       spree_core (= 0.70.0)
 
+GIT
+  remote: git://github.com/spree/spree_rdr_theme.git
+  revision: 050d729a767b82b560155efb1cf54c4ed2d709d7
+  specs:
+    spree_rdr_theme (0.1.0)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -234,6 +240,7 @@ DEPENDENCIES
   rails (= 3.1.1)
   sass-rails (~> 3.1.4)
   spree!
+  spree_rdr_theme!
   sqlite3
   therubyracer
   uglifier (>= 1.0.3)

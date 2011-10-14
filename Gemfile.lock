@@ -43,7 +43,7 @@ GIT
 
 GIT
   remote: git://github.com/spree/spree_rdr_theme.git
-  revision: 050d729a767b82b560155efb1cf54c4ed2d709d7
+  revision: 263a0a4ccf7a10b65c21aed2dd885260f40464dc
   specs:
     spree_rdr_theme (0.1.0)
 

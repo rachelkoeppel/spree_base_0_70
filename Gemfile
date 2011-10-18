@@ -25,4 +25,6 @@ group :production do
   gem 'foreman'
   gem 'unicorn'
   gem 'therubyracer'
+
+gem 'spree_rdr_theme', :git => 'git://github.com/rachelkoeppel/spree_rdr_theme.git'
 end
